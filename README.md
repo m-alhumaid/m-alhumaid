@@ -9,7 +9,7 @@ A passionate **Software Engineer** 🚀
 - 🌍 **Based in** Riyadh, Saudi Arabia.
 - 🎓 **Bachelor's in** Software Engineering.
 - 💼 Recently completed **SkillsBridge**, a platform designed to connect professionals with skill development opportunities. Currently exploring new features to enhance its functionality.
-- 🔥 Passionate about building scalable and efficient **full-stack solutions**.
+- 🔥 Passionate about building scalable and efficient solutions.
 - 🛠️ Exploring **DevOps practices** to automate deployment processes and improve collaboration between development and operations teams.
 
 ## 🛠️ Tech Stack & Tools
@@ -22,7 +22,7 @@ A passionate **Software Engineer** 🚀
 - **Others**: `Git`
 
 ## 🚧 Current Learning Journey
-- 🛠️ **Learning** DevOps tools and practices, focusing on **CI/CD pipelines**, **Docker**, **Kubernetes**, and cloud platforms like **Azure** and **AWS**.
+- 🛠️ **Learning** DevOps tools and practices, focusing on **CI/CD pipelines**, **Docker**, **Kubernetes**, and cloud platforms like **AWS**.
 - 📚 Currently building automation scripts and integrating **DevOps practices** into my workflows.
 - 💡 Building skills in infrastructure management with **Terraform** and exploring **cloud-native architectures**.
 
