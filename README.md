@@ -1,6 +1,6 @@
 # Hi, I'm Muath Alhumaid 👋
 
-A passionate **Software Engineer** 🚀
+A passionate **Software Engineer** from Saudi Arabia 🚀
 
 ## Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=muathalhumaid&color=blue)
@@ -54,7 +54,7 @@ Here are the technologies I work with to build efficient, scalable solutions:
 
 
 ## 🚧 Current Project 🏗️
-### **SkillsBridge**:
+### [**SkillsBridge**](https://github.com/m-alhumaid/SkillsBridge):
 A platform designed to bridge the gap between aspiring professionals and industry-relevant skill development opportunities. Built with `ASP.NET Core (MVC for back-end and Razor Pages for front-end)`, **SkillsBridge** helps users improve their technical expertise and gain real-world experience.
 
 
