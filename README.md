@@ -8,7 +8,7 @@ A passionate **Software Engineer** 🚀
 ## 🚀 About Me
 - 🌍 **Based in** Riyadh, Saudi Arabia.
 - 🎓 **Bachelor's in** Software Engineering.
-💼 Recently completed **SkillsBridge**, a platform designed to connect professionals with skill development opportunities. Currently exploring new features to enhance its functionality.
+- 💼 Recently completed **SkillsBridge**, a platform designed to connect professionals with skill development opportunities. Currently exploring new features to enhance its functionality.
 - 🔥 Passionate about building scalable and efficient **full-stack solutions**.
 - 🛠️ Exploring **DevOps practices** to automate deployment processes and improve collaboration between development and operations teams.
 
