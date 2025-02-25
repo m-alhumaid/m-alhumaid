@@ -13,13 +13,18 @@ A passionate **Software Engineer** 🚀
 - 🛠️ Exploring **DevOps practices** to automate deployment processes and improve collaboration between development and operations teams.
 
 ## 🛠️ Tech Stack & Tools
-- **Languages**: `JavaScript`, `TypeScript`, `C#`, `Java`
-- **Frameworks**: `.NET`, `React`
-- **DevOps Tools**: `Docker`, `Kubernetes`, `Jenkins`, `Terraform`
-- **Cloud Platforms**: `AWS`, `Azure`
-- **Databases**: `SQL Server`
-- **CSS Frameworks**: `Tailwind CSS`, `Bootstrap`
-- **Others**: `Git`
+ <div align="left">
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+</div>
 
 ## 🚧 Current Learning Journey
 - 🛠️ **Learning** DevOps tools and practices, focusing on **CI/CD pipelines**, **Docker**, **Kubernetes**, and cloud platforms like **AWS**.
